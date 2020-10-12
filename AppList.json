@@ -15,17 +15,17 @@
     "usingViewSpecs" : true
   },
   {
-    "blank" : false,
-    "description" : "Authentication",
-    "displayName" : "Authentication",
-    "htmlHeadTitle" : "Authentication",
-    "keywords" : "Cloud, JavaScript, Framework, Services, Micro, Prototype",
+    "appTemplate" : "webapp",
+    "blank" : true,
+    "displayName" : "SignUp",
     "linkedApp" : "shared",
-    "name" : "auth",
-    "trilloVersion" : "1.0",
+    "name" : "SignUp",
+    "requiredRoles" : "none",
+    "trilloVersion" : "2.0",
+    "useTestData" : true,
     "usingEnumsCatalog" : true,
     "usingStringFiles" : true,
-    "usingViewSpecs" : false
+    "usingViewSpecs" : true
   },
   {
     "appTemplate" : "webapp",
@@ -39,6 +39,19 @@
     "name" : "UM",
     "requiredRoles" : "admin",
     "requiresLogin" : true,
+    "trilloVersion" : "1.0",
+    "usingEnumsCatalog" : true,
+    "usingStringFiles" : true,
+    "usingViewSpecs" : false
+  },
+  {
+    "blank" : false,
+    "description" : "Authentication",
+    "displayName" : "Authentication",
+    "htmlHeadTitle" : "Authentication",
+    "keywords" : "Cloud, JavaScript, Framework, Services, Micro, Prototype",
+    "linkedApp" : "shared",
+    "name" : "auth",
     "trilloVersion" : "1.0",
     "usingEnumsCatalog" : true,
     "usingStringFiles" : true,
