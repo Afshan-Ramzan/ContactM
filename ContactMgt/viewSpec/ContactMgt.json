@@ -1,0 +1,5 @@
+{
+  "name" : "ContactMgt",
+  "type" : "page",
+  "controller" : "AppC"
+}
