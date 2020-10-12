@@ -85,6 +85,9 @@
     }
   ],
   "displayName" : "Client",
+  "dsSqlTemplates" : [
+    { }
+  ],
   "nameInDS" : "client_tbl",
   "primaryKeyGenerator" : "serial",
   "tableCreateable" : true
