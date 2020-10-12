@@ -1,4 +1,4 @@
-https://fonts.googleapis.com/css?family=Roboto
-static/css/bootstrap-ext.css
-static/css/trillo-ext.css
-static/css/templates.css
+https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700
+shared/static/css/jquery-form-validator.css
+shared/static/css/templates.css
+static/css/ContactMgt.css
