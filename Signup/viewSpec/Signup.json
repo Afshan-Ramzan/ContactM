@@ -1,7 +1,0 @@
-{
-  "name" : "Signup",
-  "type" : "page",
-  "displayName" : "Signup Template",
-  "controller" : "AppC",
-  "cssClass" : "trillo-container"
-}
