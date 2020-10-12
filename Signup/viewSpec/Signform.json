@@ -1,9 +1,0 @@
-{
-  "name" : "Signform",
-  "type" : "form",
-  "actionSpecs" : [
-    {
-      "name" : "ok"
-    }
-  ]
-}

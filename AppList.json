@@ -17,20 +17,6 @@
   {
     "appTemplate" : "webapp",
     "blank" : false,
-    "defaultPage" : true,
-    "displayName" : "Signup",
-    "linkedApp" : "shared",
-    "name" : "Signup",
-    "requiredRoles" : "none",
-    "trilloVersion" : "2.0",
-    "useTestData" : true,
-    "usingEnumsCatalog" : true,
-    "usingStringFiles" : true,
-    "usingViewSpecs" : true
-  },
-  {
-    "appTemplate" : "webapp",
-    "blank" : false,
     "description" : "User Management",
     "displayName" : "User Management",
     "htmlHeadTitle" : "User Management",
