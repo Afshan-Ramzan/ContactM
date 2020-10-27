@@ -1,0 +1,7 @@
+{
+"name" : "Empolyee",
+"permitsDBCreate" : true,
+"type" : "mysql",
+"useDefault" : true,
+"properties" : { }
+}

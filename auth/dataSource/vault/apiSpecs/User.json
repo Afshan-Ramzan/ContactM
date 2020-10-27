@@ -67,9 +67,8 @@
       "type" : "object"
     },
     "testQuery" : {
-      "id" : "1",
-      "FirstName" : "afshan",
-      "Password" : "afshan123"
+      "email" : "{{{email}}}",
+      "Password" : "{{{password}}}"
     },
     "uid" : "/ds/object/auth/vault/User"
   },
@@ -241,6 +240,21 @@
       "type" : "object"
     },
     "method" : "post",
+    "testBody" : {
+      "lastName" : "ramzan",
+      "role" : "admin",
+      "roles" : "admin",
+      "password" : "zxcvb",
+      "inactive" : false,
+      "lastAccessTS" : 0,
+      "email" : "afshan_ramzan@hotmail.com",
+      "accessCount" : 0,
+      "userId" : "1",
+      "emailVerified" : true,
+      "firstName" : "afshan",
+      "verifyLinkSentAt" : 0,
+      "name" : "afshan"
+    },
     "uid" : "/ds/save/auth/vault/User"
   },
   {
@@ -347,6 +361,11 @@
       "type" : "object"
     },
     "method" : "post",
+    "testBody" : {
+      "id" : "1",
+      "email" : "afshan@gmail.com",
+      "password" : "asdfg"
+    },
     "uid" : "/ds/update/auth/vault/User"
   },
   {
